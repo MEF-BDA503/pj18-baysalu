@@ -1,5 +1,5 @@
 ## Week 4 (November 25th, 2018)
-- Aggregated ODD Analysis[Link](https://mef-bda503.github.io/pj18-baysalu/ODD_UB.html) 
+- Aggregated ODD Analysis [Link](https://mef-bda503.github.io/pj18-baysalu/ODD_UB.html) 
 
 ## Week 3 (October 31th, 2018)
 - ODD Homework [Link](https://mef-bda503.github.io/pj18-baysalu/ODD_Homework.html) 
